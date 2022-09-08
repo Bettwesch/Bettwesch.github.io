@@ -1,7 +1,7 @@
 //Grab a couple of things
 const section = document.querySelector("section");
 const playerLivesCount = document.querySelector("span");
-let playerLives = 6;
+let playerLives = 8;
 
 //Link text
 playerLivesCount.textContent = playerLives;
@@ -113,7 +113,7 @@ const restart = (text) => {
             section.style.pointerEvents = "all";
         }, 1000);
     });
-    playerLives = 6;
+    playerLives = 8;
     playerLivesCount.textContent = playerLives;
     setTimeout(() => window.alert(text), 100);
 
