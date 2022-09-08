@@ -8,22 +8,22 @@ playerLivesCount.textContent = playerLives;
 
 //Generate the data
 const getData = () => [
-    { imgSrc: "./img/1/Beast.jpg", name:"Beast" },
-    { imgSrc: "./img/1/Camel.jpg", name:"Camel" },
-    { imgSrc: "./img/1/Ghost.jpg", name:"Ghost" },
-    { imgSrc: "./img/1/Head.jpg", name:"Head" },
-    { imgSrc: "./img/1/Nun.jpg", name:"Nun" },
-    { imgSrc: "./img/1/Plant.jpg", name:"Plant" },
-    { imgSrc: "./img/1/Skater.jpg", name:"Skater" },
-    { imgSrc: "./img/1/Cat.jpg", name:"Cat" },
-    { imgSrc: "./img/1/Beast.jpg", name:"Beast" },
-    { imgSrc: "./img/1/Camel.jpg", name:"Camel" },
-    { imgSrc: "./img/1/Ghost.jpg", name:"Ghost" },
-    { imgSrc: "./img/1/Head.jpg", name:"Head" },
-    { imgSrc: "./img/1/Nun.jpg", name:"Nun" },
-    { imgSrc: "./img/1/Plant.jpg", name:"Plant" },
-    { imgSrc: "./img/1/Skater.jpg", name:"Skater" },
-    { imgSrc: "./img/1/Cat.jpg", name:"Cat" },
+    { imgSrc: "Bettwesch.github.io/img/1/Beast.jpg", name:"Beast" },
+    { imgSrc: "Bettwesch.github.io/img/1/Camel.jpg", name:"Camel" },
+    { imgSrc: "Bettwesch.github.io/img/1/Ghost.jpg", name:"Ghost" },
+    { imgSrc: "Bettwesch.github.io/img/1/Head.jpg", name:"Head" },
+    { imgSrc: "Bettwesch.github.io/img/1/Nun.jpg", name:"Nun" },
+    { imgSrc: "Bettwesch.github.io/img/1/Plant.jpg", name:"Plant" },
+    { imgSrc: "Bettwesch.github.io/img/1/Skater.jpg", name:"Skater" },
+    { imgSrc: "Bettwesch.github.io/img/1/Cat.jpg", name:"Cat" },
+    { imgSrc: "Bettwesch.github.io/img/1/Beast.jpg", name:"Beast" },
+    { imgSrc: "Bettwesch.github.io/img/1/Camel.jpg", name:"Camel" },
+    { imgSrc: "Bettwesch.github.io/img/1/Ghost.jpg", name:"Ghost" },
+    { imgSrc: "Bettwesch.github.io/img/1/Head.jpg", name:"Head" },
+    { imgSrc: "Bettwesch.github.io/img/1/Nun.jpg", name:"Nun" },
+    { imgSrc: "Bettwesch.github.io/img/1/Plant.jpg", name:"Plant" },
+    { imgSrc: "Bettwesch.github.io/img/1/Skater.jpg", name:"Skater" },
+    { imgSrc: "Bettwesch.github.io/img/1/Cat.jpg", name:"Cat" },
 ];
 
 //Randomize
