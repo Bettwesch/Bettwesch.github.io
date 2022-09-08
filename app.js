@@ -8,22 +8,22 @@ playerLivesCount.textContent = playerLives;
 
 //Generate the data
 const getData = () => [
-    { imgSrc: "Bettwesch.github.io/img/1/Beast.jpg", name:"Beast" },
-    { imgSrc: "Bettwesch.github.io/img/1/Camel.jpg", name:"Camel" },
-    { imgSrc: "Bettwesch.github.io/img/1/Ghost.jpg", name:"Ghost" },
-    { imgSrc: "Bettwesch.github.io/img/1/Head.jpg", name:"Head" },
-    { imgSrc: "Bettwesch.github.io/img/1/Nun.jpg", name:"Nun" },
-    { imgSrc: "Bettwesch.github.io/img/1/Plant.jpg", name:"Plant" },
-    { imgSrc: "Bettwesch.github.io/img/1/Skater.jpg", name:"Skater" },
-    { imgSrc: "Bettwesch.github.io/img/1/Cat.jpg", name:"Cat" },
-    { imgSrc: "Bettwesch.github.io/img/1/Beast.jpg", name:"Beast" },
-    { imgSrc: "Bettwesch.github.io/img/1/Camel.jpg", name:"Camel" },
-    { imgSrc: "Bettwesch.github.io/img/1/Ghost.jpg", name:"Ghost" },
-    { imgSrc: "Bettwesch.github.io/img/1/Head.jpg", name:"Head" },
-    { imgSrc: "Bettwesch.github.io/img/1/Nun.jpg", name:"Nun" },
-    { imgSrc: "Bettwesch.github.io/img/1/Plant.jpg", name:"Plant" },
-    { imgSrc: "Bettwesch.github.io/img/1/Skater.jpg", name:"Skater" },
-    { imgSrc: "Bettwesch.github.io/img/1/Cat.jpg", name:"Cat" },
+    { imgSrc: "https://bettwesch.github.io/img/1/Beast.JPG", name:"Beast" },
+    { imgSrc: "https://bettwesch.github.io/img/1/Camel.JPG", name:"Camel" },
+    { imgSrc: "https://bettwesch.github.io/img/1/Ghost.JPG", name:"Ghost" },
+    { imgSrc: "https://bettwesch.github.io/img/1/Head.JPG", name:"Head" },
+    { imgSrc: "https://bettwesch.github.io/img/1/Nun.JPG", name:"Nun" },
+    { imgSrc: "https://bettwesch.github.io/img/1/Plant.JPG", name:"Plant" },
+    { imgSrc: "https://bettwesch.github.io/img/1/Skater.JPG", name:"Skater" },
+    { imgSrc: "https://bettwesch.github.io/img/1/Cat.JPG", name:"Cat" },
+    { imgSrc: "https://bettwesch.github.io/img/1/Beast.JPG", name:"Beast" },
+    { imgSrc: "https://bettwesch.github.io/img/1/Camel.JPG", name:"Camel" },
+    { imgSrc: "https://bettwesch.github.io/img/1/Ghost.JPG", name:"Ghost" },
+    { imgSrc: "https://bettwesch.github.io/img/1/Head.JPG", name:"Head" },
+    { imgSrc: "https://bettwesch.github.io/img/1/Nun.JPG", name:"Nun" },
+    { imgSrc: "https://bettwesch.github.io/img/1/Plant.JPG", name:"Plant" },
+    { imgSrc: "https://bettwesch.github.io/img/1/Skater.JPG", name:"Skater" },
+    { imgSrc: "https://bettwesch.github.io/img/1/Cat.JPG", name:"Cat" },
 ];
 
 //Randomize
