@@ -82,7 +82,7 @@ const checkCards = (e) => {
             console.log("wrong");
             flippedCards.forEach(card => {
                 card.classList.remove("flipped");
-                setTimeout(() => card.classList.remove("toggleCard"), 500);
+                setTimeout(() => card.classList.remove("toggleCard"), 350);
             });
             playerLives--;
             playerLivesCount.textContent = playerLives;
